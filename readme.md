@@ -30,8 +30,7 @@ To get your API key:
 ```javascript
 // config.js
 const API_KEY = 'YOUR_API_KEY_HERE';
-
-````Clone the Project
+```
 
 ### Get Project clone using 
 
